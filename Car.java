@@ -8,8 +8,6 @@ farklı kodlar yazdım.
 
 
 
+
 yeni özellikler ekledim.
   
-
-bazı çalışmalar yaptım  
-localde conflit olursa
