@@ -8,4 +8,4 @@ farklı kodlar yazdım.
   
 
 bazı çalışmalar yaptım  
-
+localde conflit olursa
